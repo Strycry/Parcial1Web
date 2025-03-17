@@ -1,0 +1,19 @@
+{
+    "login_title": "Login",
+    "email": "Email",
+    "email_placeholder": "Enter your email",
+    "email_error": "Invalid email",
+    "password": "Password",
+    "password_placeholder": "Enter your password",
+    "password_error": "Must be between 5 and 8 characters",
+    "submit": "Submit",
+    "change_language": "Change Language",
+    "app_title": "My Application",
+    "login_image_alt": "Login image",
+    "menu": "Menu",
+    "carro": "Shopping Cart",
+    "cart": "Cart",
+    "stores": "Stores",
+    "error_loading_data": "Error loading data"
+  }
+  

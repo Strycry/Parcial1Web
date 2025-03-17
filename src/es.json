@@ -1,0 +1,19 @@
+{
+    "login_title": "Iniciar sesión",
+    "email": "Correo electrónico",
+    "email_placeholder": "Ingresa tu correo",
+    "email_error": "Correo inválido",
+    "password": "Contraseña",
+    "password_placeholder": "Ingresa tu contraseña",
+    "password_error": "Debe tener entre 5 y 8 caracteres",
+    "submit": "Ingresar",
+    "change_language": "Cambiar idioma",
+    "app_title": "Mi Aplicación",
+    "login_image_alt": "Imagen de inicio de sesión",
+    "menu": "Menú",
+    "carro": "Carro de compras",
+    "error_loading_data": "Error al cargar los datos",
+    "cart": "Carrito",
+    "stores": "Tiendas"
+  }
+  
